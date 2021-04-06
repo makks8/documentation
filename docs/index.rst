@@ -1,20 +1,6 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Главная
+==================
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Для корректной работы рекомендуется установка Битрикс 24 (коробка) на CentOS 7 (сервер с операционной системой Linux).
 
-Оглавление:
-
-.. toctree::
-   :maxdepth: 2
-   :numbered:
-   :hidden:
-
-   example
-   example2
-
-
-
+Оптимальный способ — арендовать виртуальный сервер. Мы обычно арендуем сервера для Битрикс24 в Firstvds, но вы можете выбрать любого другого хостинг-провайдера.
