@@ -6,20 +6,15 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-Contents:
+Оглавление:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :numbered:
+   :hidden:
 
-   *
+   example
+   example2
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
