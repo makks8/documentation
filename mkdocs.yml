@@ -1,7 +1,7 @@
 site_name: Выбор сервера для коробочной версии Битрикс24
 nav:
-  - Home: 'index.md'
+  - Home: 'index.rst'
   - 'Тарифы':
-      - 'Тест': 'bitrix-rates/index.md'
+      - 'Тест': 'bitrix-rates/bitrix-rates.rst'
 theme:
   name: 'material'
