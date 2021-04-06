@@ -2,6 +2,6 @@ site_name: Выбор сервера для коробочной версии Б
 nav:
   - Home: 'index.rst'
   - 'Тарифы':
-      - 'Тест': 'bitrix-rates/bitrix-rates.rst'
+      - 'Тест': './bitrix-rates/bitrix-rates.rst'
 theme:
   name: 'material'
